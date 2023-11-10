@@ -1,0 +1,13 @@
+=============================
+Tutorial 
+666. Anadiendo Express validator 
+cmd : npm i express-validator
+
+670 Anadiendo dependencia JWToken
+cmd : npm i jsonwebtoken
+
+676 Guardando enlaces en la BD
+cmd  npm i shortid
+
+680 Configurando Multer para subir archivos
+cmd npm i multer
